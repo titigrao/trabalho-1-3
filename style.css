@@ -1,3 +1,9 @@
+:root{
+    cabecalho-fundo: grey;
+}
+
+
+
 .textos-daora{
     display: flex;
 }
