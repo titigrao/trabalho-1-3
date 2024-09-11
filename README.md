@@ -1,3 +1,3 @@
 # trabalho-1-3
 
-Grupo: Thyago, Ingrid, Henzo
+Grupo: Thyago, Ingrid, Henzo, Miguel
