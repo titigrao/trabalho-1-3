@@ -2,7 +2,9 @@
     cabecalho-fundo: grey;
 }
 
-
+.titulo-cabecalho{
+    justify-content: center;
+}
 
 .textos-daora{
     display: flex;
