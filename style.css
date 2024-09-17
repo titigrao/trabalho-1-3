@@ -23,5 +23,5 @@ body{
 .textos-daora{
     display: flex;
     justify-content: space-between;
-    width: 50px
+    width: 50px;
 }
