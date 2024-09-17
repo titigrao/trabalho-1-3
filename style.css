@@ -3,7 +3,9 @@
     --background-header:  #ffffff;
 }
 
-.
+.body{
+    background-color: var(--background);
+}
 
 .cabecalho{
     background-color: var(--background-header);
