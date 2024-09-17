@@ -1,11 +1,15 @@
 :root{
-    cabecalho-fundo: grey;
+    --background:  #d0f3cc;
+    --background-header:  #ffffff;
 }
 
-.titulo-cabecalho{
+.
+
+.cabecalho{
+    background-color: var(--background-header);
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
 }
 
 .textos-daora{
