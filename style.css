@@ -20,7 +20,7 @@ body{
     align-items: center;
 }
 
-.textos-daora{
+.cabecalho--nav{
     display: flex;
     justify-content: space-between;
     width: 215px;
