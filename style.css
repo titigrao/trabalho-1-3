@@ -15,6 +15,11 @@
     align-items: center;
 }
 
+.titulo-cabecalho{
+    display: flex;
+    align-items: center;
+}
+
 .textos-daora{
     display: flex;
     justify-content: center;
