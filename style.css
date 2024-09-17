@@ -3,7 +3,7 @@
     --background-header:  #ffffff;
 }
 
-.body{
+body{
     background-color: var(--background);
 }
 
