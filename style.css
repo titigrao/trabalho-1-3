@@ -3,9 +3,12 @@
 }
 
 .titulo-cabecalho{
+    display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 
 .textos-daora{
     display: flex;
+    justify-content: center;
 }
