@@ -34,3 +34,12 @@ body{
     width: 215px;
     margin: 20px;
 }
+h1{
+    font-size: 2rem;
+    color: var(--texto);
+    font-weight: 700;
+}
+
+nav a{
+    
+}
