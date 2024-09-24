@@ -1,10 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
+
 :root{
     --background:  #d0f3cc;
     --background-header:  #ffffff;
+    --texto: #000000;
 }
 
 body{
     background-color: var(--background);
+    color: var(--texto);
+    font-family: "Gowun Batang", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .cabecalho{
