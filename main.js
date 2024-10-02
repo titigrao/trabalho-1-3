@@ -14,3 +14,38 @@ async function visualizarDados(){
 visualizarDados()
 
 
+[
+    {
+      "id": "2602",
+      "variavel": "Municípios que possuem instrumento legal regulador do serviço de esgotamento sanitário",
+      "unidade": "Unidades",
+      "resultados": [
+        {
+          "classificacoes": [
+            {
+              "id": "12966",
+              "nome": "Tipo de instrumento legal regulador",
+              "categoria": {
+                "120951": "Total"
+              }
+            }
+          ],
+          "series": [
+            {
+              "localidade": {
+                "id": "1",
+                "nivel": {
+                  "id": "N1",
+                  "nome": "Brasil"
+                },
+                "nome": "Brasil"
+              },
+              "serie": {
+                "2008": "1024"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
