@@ -17,6 +17,7 @@ async function visualizarDados(){
   const paragrafo = document.createElement('p')
   paragrafo.classList.add('graficos--container__texto')  
   paragrafo.innerHTML = `Está é uma pesquisa do IBGE com o foco em ${tipo_dados}`
+  paragrafo.innerHTML = `no ano ${resultado_dados} teve ${resultado_dados} de casos onde o saneamento não foi executada`
 
   const container = document.getElementById('graficos--container')
   
